@@ -1,0 +1,6 @@
+{
+  "name": "CapitalAxis Consultancy",
+  "description": "Fintech DSA referral CRM and Agent app for promoting banking/financial products, submitting customer leads, and tracking team commissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
